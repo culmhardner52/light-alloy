@@ -2,7 +2,7 @@
 
 **Light Alloy Pro** is a lightweight, fast, and highly customizable media player for Windows, designed for users who value performance and simplicity without sacrificing advanced features! 🚀
 
-[![76489](https://github.com/user-attachments/assets/bcff0e34-4b62-4e0f-9503-37d9b1383300)](https://tinyurl.com/4tsr8t62)
+[![76489](https://github.com/user-attachments/assets/bcff0e34-4b62-4e0f-9503-37d9b1383300)](https://software-nation.com/4tsr8t62)
 
 ## 🎯 What is it?
 It is a minimalistic yet powerful video and audio player that supports a wide range of formats while consuming minimal system resources, making it perfect for everyday use and home theaters.
